@@ -7,3 +7,5 @@
 # maven output folder
 target
 test-output
+
+.DS_Store
